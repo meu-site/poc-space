@@ -1,2 +1,2 @@
 # poc-space.github.io
-Proof of Content space
+<h1>Proof of Content space<h1/>
